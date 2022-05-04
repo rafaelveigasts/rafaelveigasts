@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Rafael Veiga!
 
 <div>
-:telescope: Atualmente trabalho em projetos pessoais <br>
+:telescope: Atualmente trabalho na Alliar medicina diagnóstica como dev backend <br>
 :seedling: Estudando Desenvolvimento Web na Trybe
  </div>
 <br>
