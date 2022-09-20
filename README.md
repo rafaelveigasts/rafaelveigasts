@@ -12,15 +12,24 @@
 </div>
  
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Git" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Github" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+ <img align="center" alt="Rafa-linux" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" alt="Rafa-NPM" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-TS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
  <img align="center" alt="Rafa-VSCODE" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-VSCODE" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Rafa-NPM" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
- <img align="center" alt="Rafa-linux" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="Rafa-Git" height="40" width="50" src="https://raw.github.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-NODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-DOCKER" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-GC" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Rafa-Kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Rafa-MySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-Postgres" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Rafa-Mongo" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-Prisma" height="40" width="50" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png">
+  
+
  
  
 
