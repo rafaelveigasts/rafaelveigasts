@@ -3,6 +3,7 @@
 <div>
 :telescope: Atualmente trabalho na Alliar medicina diagnóstica como dev backend <br>
 :seedling: Formado Desenvolvimento Web na Trybe em 2022!
+:man_student: Atualmente cursando Análise e Desenvolvimento de Sistemas
  </div>
 <br>
  <div>
