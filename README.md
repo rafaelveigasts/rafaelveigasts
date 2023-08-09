@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Rafael Veiga!
 
 <div>
-:telescope: Atualmente trabalho na Alliar medicina diagnóstica como dev backend <br>
+:telescope: Dev backend na Alliança <br>
 :seedling: Formado Desenvolvimento Web na Trybe em 2022!<br>
 :man_student: Atualmente cursando Análise e Desenvolvimento de Sistemas
  </div>
