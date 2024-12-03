@@ -2,7 +2,8 @@
 
 <div>
 :seedling: Formado Desenvolvimento Web na Trybe em 2022!<br>
-:man_student: Atualmente cursando Análise e Desenvolvimento de Sistemas
+:man_student: Atualmente cursando Análise e Desenvolvimento de Sistemas<br>
+:briefcase: Atuando como desenvolvedor backend pleno no PicPay!
  </div>
 <br>
  <div>
